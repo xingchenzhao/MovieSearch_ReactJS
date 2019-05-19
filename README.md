@@ -1,3 +1,6 @@
+This is Movie Search Application built with ReactJS. 
+**Online Demo:  https://xingchenzhao.github.io/MovieSearch_ReactJS**
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
